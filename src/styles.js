@@ -1,6 +1,6 @@
 const fontFamily =
-  '-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";';
-const em = n => `${16 * n}px`;
+  '-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";'
+const em = n => `${16 * n}px`
 
 module.exports = {
   // Heading Tag Styles
@@ -34,4 +34,4 @@ module.exports = {
   inlineCode: `font-family: monospace; background-color: rgba(27,31,35,0.05);`,
   code: `font-family: monospace; background-color: rgba(27,31,35,0.05); padding-left: 5px; padding-right: 15px;`,
   blank: `font-family: unset; font-size: unset; font-weight: unset; margin: 0;`
-};
+}
