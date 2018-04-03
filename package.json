@@ -7,5 +7,15 @@
   "license": "MIT",
   "dependencies": {
     "remark": "^9.0.0"
+  },
+  "scripts": {
+    "browserify": "browserify src/lib.js -t babelify -p tinyify -o bundle.js"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
+    "browserify": "^16.1.1",
+    "tinyify": "^2.4.0"
   }
 }
