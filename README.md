@@ -1,8 +1,11 @@
 # `console.md`
 > Ever dreamed of rendering Markdown in the console? No. Neither have I.
 
-But, it's possible, in chrome at least.
+But, it's possible, and it works cross browser!
 So to you, I now present: `console.md` - Render markdown in the console! 💪🔮
+
+At the moment, not all features of markdown are supported, what is, is detailed in the example below.
+You should note that it looks really good in Firefox, but neither firefox or safari supports images. Chrome, however works with all of the implemented features!
 
 ## Usage
 

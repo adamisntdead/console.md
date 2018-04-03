@@ -1,7 +1,7 @@
 {
   "name": "console-md",
   "version": "1.0.0",
-  "description": "Render Markdown Into The Browser Console 😮",
+  "description": "Render markdown in the browser console! 💪🔮",
   "main": "src/lib.js",
   "author": "Adam Kelly",
   "license": "MIT",
