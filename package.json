@@ -1,6 +1,6 @@
 {
   "name": "console-markdown",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Render markdown in the browser console! 💪🔮",
   "main": "src/lib.js",
   "author": "Adam Kelly",
