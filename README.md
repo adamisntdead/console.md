@@ -1,6 +1,8 @@
 # `console.md`
 > Ever dreamed of rendering Markdown in the console? No. Neither have I.
 
+**Check out the demo! Go to [this page](https://adamisntdead.github.io/console.md/) and open the console!**
+
 But, it's possible, and it works cross browser!
 So to you, I now present: `console.md` - Render markdown in the console! 💪🔮
 
