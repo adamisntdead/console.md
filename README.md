@@ -15,10 +15,10 @@ This library is a browser only library. It's usable in chrome.
 If you are using something like rollup, webpack or other bundlers, you can use this through npm.
 
 ```bash
-$ npm install --save console-md
+$ npm install --save console-markdown
 ```
 
-Otherwise, just download the `bundle.js` file from this repo, and add it to your html file
+Otherwise, just download the [`bundle.js`](https://raw.githubusercontent.com/adamisntdead/console.md/master/bundle.js) file from this repo, and add it to your html file
 
 ```html
 <script src="bundle.js"></script>
